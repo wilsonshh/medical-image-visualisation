@@ -34,4 +34,4 @@ Medical Image Visualisation application enables quantitative analysis and visual
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-+ [Java](https://www.java.org/) - Programming language
++ [Java](https://www.java.org/) 
